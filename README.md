@@ -12,7 +12,7 @@ Linuxdo 用户画像生成器
 # 如何使用
 
 1. 在电脑上[安装好Tampermonkey](https://www.tampermonkey.net/)，并且按Tampermonkey **提示启用开发者模式**
-2. [点我下载]()
+2. [点我下载](https://github.com/luoxiaoxin123/LinuxDo-User-Profiler/blob/main/LinuxDo-User-Profiler-1.js)
 3. 进入你想分析的 用户主页。
 4. 点击右下角的 🐧 悬浮球。
 5.按照下图的数字修改 采集条数
@@ -29,4 +29,4 @@ Linuxdo 用户画像生成器
 
 # 碎碎念
 
-如果佬们有更好的提示词，欢迎提出issues。这是我第一次接触代码，没想到反重力+Gemini3flash仅用了15分钟，5论对话就修改完毕了（包括提示词），ai真的是太好用了（bushi
+如果佬们有更好的提示词，欢迎提出issues。这是我第一次接触代码，没想到反重力+Gemini3flash仅用了15分钟，5论对话就修改完毕了（包括提示词），ai真的是太好用了（bushi。并且我对GitHub的使用不是很熟练，请佬们谅解。
