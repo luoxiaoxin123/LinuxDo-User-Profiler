@@ -1,6 +1,8 @@
 # LinuxDo-User-Profiler
 Linuxdo 用户画像生成器
 
+LixuxDo链接：https://linux.do/t/topic/1358212
+
 # 前言
 
 看到隔壁[Nodeseek有佬发布了用户画像生成器](https://github.com/tunecc/NodeSeek-User-Profiler)，觉得咱们也得有（）。变修改成如今的Linuxdo 用户画像生成器，顺便试试反重力到底怎么样。在此感谢https://v2ex.com/t/1169590 和 https://www.nodeseek.com/post-543992-1 的无私开源！由于tunecc佬写的readme十分优秀且通俗易懂，我就不画蛇添足了，仅做些微调，再次感谢佬的开源！
